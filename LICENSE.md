@@ -1,4 +1,4 @@
-
+Get the ultimate Alfred for macOS extension with instant Extension for Alfred for macOS - app-uninstaller and menu-bar-customization. Featuring app-uninstaller and
 
 
 
